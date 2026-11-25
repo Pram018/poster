@@ -1,0 +1,1 @@
+A Social Media Application for Blogs and Posts.
